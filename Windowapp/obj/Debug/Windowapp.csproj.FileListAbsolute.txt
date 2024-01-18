@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\bin\Debug\Windowapp.exe.config
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\bin\Debug\Windowapp.exe
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\bin\Debug\Windowapp.pdb
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.exe
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.pdb
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.Regform.resources
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.Login.resources
+C:\Users\Lenovo\source\repos\Windowapp\Windowapp\obj\Debug\Windowapp.profile.resources
